@@ -4,7 +4,7 @@
 The goal of this assessment is to evaluate your ability to design and implement a small REST API with a database. The application is split in 3 iterations, to simulate real life updates to a task. In the spirit of this, try to work on each iteration without looking at the next one(s).
 
 ## Submission
-To begin, fork this repository and **make your fork private**. Once completed, submit the GitHub repository link along with a brief description of your approach.
+To begin, create a repository, **make it private, and invite @fredjarjour and @PersoSirEduard to it**. Once completed, submit the GitHub repository link along with a brief description of your approach.
 
 **Make sure to have commits named "Iteration X", for each iteration you complete (X=1,2,3).** Of course, you can (and are encouraged to) commit your progress between these, but we will use these specific commits to see your "final result" for each iteration.
 
